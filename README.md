@@ -46,6 +46,7 @@ function optionChanged(newSample) {
 This is displayed and linked to a change which is a selDataset. The change then builds new metadata and charts based on the selector in the dropdown. There is a demographics panel associated with the ID of the subject. Then there are three charts created: a bar chart with the ten bacteria associated by an OTU id and OTU label(which is shown in the graphs by hovering over the bar or bubble), a bubble chart, and a gauge chart. The bar chart:
 
 ![newplot (3)](https://user-images.githubusercontent.com/99676466/177010911-650ea497-37c2-4ebb-ba0b-8232cd6aa3c1.png)
+
 Where the trace for the chart contains the following:
 * The y values are the otu_ids in descending order
 * The x values are the sample_values in descending order
