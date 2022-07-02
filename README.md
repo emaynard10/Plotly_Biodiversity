@@ -75,4 +75,6 @@ The dashboard is customized with Boostrap and HTML and the following three custo
 * Add background color or a variety of compatible colors to the webpage.
 * Use a custom font with contrast for the colors.
 
+The dashboard is displayed on [Github Pages](https://emaynard10.github.io/Plotly_bbBiodiversity/)
+
  
